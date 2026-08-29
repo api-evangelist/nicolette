@@ -11,6 +11,17 @@ description: >-
   Founded in 2016 and backed by Techstars among others, Nicolette exposes no public developer API,
   documentation, or SDKs at this time.
 url: https://raw.githubusercontent.com/api-evangelist/nicolette/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
